@@ -1,1 +1,2 @@
 minor-api-os.hoyoverse.com
+log-upload-os.hoyoverse.com
