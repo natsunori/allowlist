@@ -1,2 +1,9 @@
-||minor-api-os.hoyoverse.com
-||log-upload-os.hoyoverse.com
+||ad-log-upload-os.hoyoverse.com^
+||apm-log-upload-os.hoyoverse.com^
+||devlog-upload-os.hoyoverse.com^
+||hkrpg-log-upload-os.hoyoverse.com^
+||log-upload-os.hoyoverse.com^
+||minor-api-os.hoyoverse.com^
+||sentry.eks.hoyoverse.com^
+||sg-public-data-api.hoyoverse.com^
+||ys-log-upload-os.hoyoverse.com^
