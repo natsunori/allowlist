@@ -35,3 +35,4 @@ crashlogs.whatsapp.net
 pps.whatsapp.net
 *.threads.net
 cdn.threads.net
+*.spacex.com
