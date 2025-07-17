@@ -33,7 +33,6 @@ cdn.whatsapp.net
 static.whatsapp.net
 crashlogs.whatsapp.net
 pps.whatsapp.net
-*.threads.net
-cdn.threads.net
 *.spacex.com
+
 
